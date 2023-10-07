@@ -1,11 +1,11 @@
 ---
-title: "RapidBook"
-author: "Jon Areas"
+title: "ACoolA's DS Craft Space"
+author: "Mu Cheng"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-github-repo: "jxareas/RapidBook"
-url: 'https://jxareas.github.io/RapidBook/'
-description: "A template to rapidly deploy Python/R based books using Bookdown."
+github-repo: "ACoolA-008/ACoolA_DS_Space.io"
+url: 'https://acoola-008.github.io/ACoolA_DS_Space.io/'
+description: "A Goto Page for Data Science Knowledge"
 ---
 
 ```{r setup, include=FALSE}
