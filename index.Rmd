@@ -18,6 +18,6 @@ library(dplyr)
 
 # Preliminary Information {.unnumbered}
 
-This is an artificial book to demonstrate the look of the [RapidBook Template](https://github.com/jxareas/RapidBook), which is a template to rapidly deploy either Python or R based books using Bookdown.
+This is DS Skill Crafting Space to demonstrate data science knowledge base from perspectives of coding, statistics, probability, machine learning and deep learning using Python.
 
 As this uses R Markdown, Python must be used through the `reticulate` interface.
